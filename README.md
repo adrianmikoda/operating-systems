@@ -7,7 +7,7 @@
 - [License](#license)
   
 ## Project Description
-A collection of programs developed for the "Operating Systems" university course.
+Collection of programs developed for the "Operating Systems" university course.
 
 ## Table of Contents
 | Laboratory | Description | Source |
